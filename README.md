@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexils&label=Profile%20views&color=0e75b6&style=flat" alt="dexils" /> </p>
 
 - I’m currently working on FrogInDev website 🖥️🐸 **FrogInDev**
-- How to reach me for FrogInDev 🖥️🐸: [frogindev@gmail.com](frogindev@gmail.com)
-- How to reach me for the API Key for the unofficial Satisfactory Database 🗝️🏭 : [dexils.dex@gmail.com](dexils.dex@gmail.com)
+- How to reach me for FrogInDev 🖥️🐸: <a href="mailto:frogindev@gmail.com">frogindev@gmail.com</a>
+- How to reach me for the API Key for the unofficial Satisfactory Database 🗝️🏭 : <a href="mailto:dexils.dex@gmail.com">dexils.dex@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages:</h4>
